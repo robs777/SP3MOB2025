@@ -1,8 +1,8 @@
-import { StatusBar } from 'expo-status-bar';
+
 import { useState } from 'react';
 import { FlatList, Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
 import Ionicons from '@expo/vector-icons/Ionicons';
-import TopoOdonto from '../components/TopoOdonto';
+import TopoOdonto from '../components/topoOdonto';
 import { Link } from 'expo-router';
 
 type TaskItemProps = {

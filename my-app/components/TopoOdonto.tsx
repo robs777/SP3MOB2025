@@ -1,11 +1,11 @@
 
-import { Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
+import {  StyleSheet, Text,  View } from 'react-native';
 
 export default function TopoOdonto() {
   return (
    
     <View>
-      {/* Header Azul */}
+   
       <View style={styles.header}>
         <Text style={styles.headerTexto}>ODONTOPREV</Text>
       </View>

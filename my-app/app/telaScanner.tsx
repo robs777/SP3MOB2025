@@ -1,6 +1,6 @@
 
-import { Pressable, StyleSheet, Text,  View, Image } from 'react-native';
-import TopoOdonto from '../components/TopoOdonto';
+import {  StyleSheet, Text,  View, Image } from 'react-native';
+import TopoOdonto from '../components/topoOdonto';
 import { Link } from 'expo-router';
 
 export default function TelaScanner() {

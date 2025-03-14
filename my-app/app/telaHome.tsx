@@ -1,6 +1,6 @@
 
 import { Link } from 'expo-router';
-import { Pressable, StyleSheet, Text,  View, Image } from 'react-native';
+import {  StyleSheet, Text,  View, Image } from 'react-native';
 
 
 export default function TelaHome() {

@@ -1,6 +1,6 @@
 
 import { Pressable, StyleSheet, Text,  View, Image } from 'react-native';
-import TopoOdonto from '../components/TopoOdonto';
+import TopoOdonto from '../components/topoOdonto';
 export default function TelaMedicos() {
 
   const profissionais = [

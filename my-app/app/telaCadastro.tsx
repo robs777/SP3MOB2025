@@ -1,7 +1,7 @@
-import { StatusBar } from 'expo-status-bar';
+
 import { Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
-import TopoOdonto from '../components/TopoOdonto';
-import { Link } from 'expo-router';
+import TopoOdonto from '../components/topoOdonto';
+
 
 export default function TelaCadastro() {
   return (
