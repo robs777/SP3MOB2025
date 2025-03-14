@@ -67,8 +67,8 @@ const styles = StyleSheet.create({
   },
   
   scannerImage: {
-    width: 150,
-    height: 150,
+    width: 100,
+    height: 100,
     borderRadius: 10,
     marginBottom: 15,
   },
